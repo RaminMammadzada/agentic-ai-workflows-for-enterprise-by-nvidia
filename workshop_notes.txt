@@ -6,4 +6,9 @@
     - https://docs.nvidia.com/nemo/overview.html
     - https://github.com/NVIDIA/NeMo
 
-3) https://build.nvidia.com/
+3) NVIDIA Build System
+    - https://build.nvidia.com/
+
+4) Phoenix Overview
+    - https://arize.com/docs/phoenix/overview
+    - https://arize.com/docs/phoenix/datasets-and-experiments/overview-datasets
